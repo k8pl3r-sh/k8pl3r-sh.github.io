@@ -6,6 +6,7 @@
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: https://x.com/k8pl3r
 
 - type: email
   icon: "fas fa-envelope"
